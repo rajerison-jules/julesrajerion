@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Jules 👋👋👋👋
 ![image](https://imgur.com/g4mHZMS.png)
-## I'm a student, Brother, Developer, and Teacher!!
+## I'm a full stack developer!!
 
 - 😅  I’m currently learning everything 🤣
 - 👯  Now I’m a fullstack developer in ROR and ReactJs  
