@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Jules 👋👋👋👋
-![image](https://imgur.com/UR3uibK.png)
+![image](https://imgur.com/g4mHZMS.png)
 ## I'm a student, Brother, Developer, and Teacher!!
 
 - 😅  I’m currently learning everything 🤣
