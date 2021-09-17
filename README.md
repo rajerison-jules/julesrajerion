@@ -4,7 +4,7 @@
 ## I'm a full stack developer!!
 
 - 😅  I’m currently learning everything 🤣
-- 👯  Now I’m a fullstack developer in ROR and ReactJs  
+- 👯  Now I’m a developer fullstack JS  
 - 🥅 I have already done several projects (some are useless 🤣🤣🤣)
 - 💫 computer science is my life since my childhood
 - ⚡  I love too a UI/UX design
