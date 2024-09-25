@@ -7,7 +7,7 @@
 - 👯  Now I’m a developer fullstack JS  
 - 🥅 I have already done several projects (some are useless 🤣🤣🤣)
 - 💫 computer science is my life since my childhood
-- ⚡  I love too a UI/UX design
+- ⚡  I love UI/UX design too 
 
 
 ### Connect with me:
